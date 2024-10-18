@@ -54,7 +54,9 @@ class Homepage extends StatelessWidget {
                     onProgressChanged: (controller, progress) {
                       Providerfalse.onchange_progress(progress);
                     },
-
+                    onUpdateVisitedHistory: (controller, url, isReload) {
+                      Providerfalse.addtoHistory();
+                    },
                     // for the add to fav site
                     onLoadStop: (controller, url) async {
                       Providerfalse.addtoHistory();
