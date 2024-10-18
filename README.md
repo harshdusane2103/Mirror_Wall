@@ -19,6 +19,11 @@ Mirror Wall
    <img src="https://github.com/harshdusane2103/Mirror_Wall/blob/master/p8.png", width=21%,height=35%>
   <img src="https://github.com/harshdusane2103/Mirror_Wall/blob/master/p9.png", width=21%,height=35%>
    <img src="https://github.com/harshdusane2103/Mirror_Wall/blob/master/p10.png", width=21%,height=35%>
-  <img src="https://github.com/harshdusane2103/Mirror_Wall/blob/master/p11.png", width=21%,height=35%>
   
+  
+</div>
+
+<div align="center"> 
+<video src="">
+
 </div>
